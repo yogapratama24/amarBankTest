@@ -1,0 +1,28 @@
+[
+    {
+        "id": "17",
+        "data": {
+            "name": "John Martin",
+            "ktp": "3012192106980017",
+            "loan_amount": 10000,
+            "loan_period": 3,
+            "loan_purpose": "vacation",
+            "sex": "M",
+            "date_of_birth": "1998-06-21"
+        },
+        "timestamp": "2024-08-16 03:13:13"
+    },
+    {
+        "id": "20",
+        "data": {
+            "name": "Anne Marie",
+            "ktp": "3012195008990017",
+            "loan_amount": 10000,
+            "loan_period": 3,
+            "loan_purpose": "vacation",
+            "sex": "F",
+            "date_of_birth": "1999-08-10"
+        },
+        "timestamp": "2024-08-16 03:18:13"
+    }
+]
